@@ -8,7 +8,7 @@ React Pokédex
   A simple pokédex made with React 
     <br />
     <br />
-    <a href="https://pokedex.stevenhansel.com">View Demo</a>
+    <a href="https://hemant-sai-pokedex.netlify.app/">View Demo</a>
     
     
   </p>
